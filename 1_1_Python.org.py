@@ -1,5 +1,6 @@
-1.1_Python.org 
-''' 
+
+'''
+
 Python has a lot of different thing to offer. 
 They offer jobs amd how to get started in the python world. 
 What I like the most about pyton is that your able to join Community network and learn from professional
