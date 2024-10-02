@@ -1,4 +1,4 @@
-#05_03_alien_colors
+# 05_03_alien_colors
 color = "green"
 print("What color is the Alien, *green*")
 if color == "green":
@@ -6,7 +6,6 @@ if color == "green":
 elif color == "yellow":
     print("No")
     
-
 color = "yellow"
 print("What color is the Alien, *yellow*")
 if color == "green":
