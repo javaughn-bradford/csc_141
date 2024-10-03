@@ -1,0 +1,8 @@
+#06_01_person
+my_info1={'firstname': 'javaughn', 'lastname': 'bradford', 'city' : 'philadelphia'}
+#First Name 
+print(my_info1['firstname'])
+#Last name  
+print(my_info1['lastname'])
+#City
+print(my_info1['city'])
