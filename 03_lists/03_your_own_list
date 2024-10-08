@@ -1,0 +1,10 @@
+#03_03_your_own_list
+Cars= ['Infinity Q50', 'Honda Civic', 'Audi Q8', 'BMW I8,']
+
+print("My favorite transportation are cars, even though I never owned one before. I hope to own one soon and here is my list:")
+print(Cars)
+
+print("My dad had a", (Cars[0]), "I always wanted one now since he had it ")
+print("I want a", (Cars[1]), "as my first car, it's a nice car that runs pretty good and it doesn't cost that much")
+print("My mom had a", (Cars[2]), "I loved that car and thats I car I want when I'm older")
+print("For my dream car I want a", (Cars[3]), "thats been a car I wanted for a really long time and I hope I get a chance to get it")
