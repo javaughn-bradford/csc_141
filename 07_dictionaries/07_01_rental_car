@@ -1,0 +1,12 @@
+#07_01_rental_car
+
+message= input("Can you help me look for a rental car that can fit 5 people and is safe for kids?: ")
+
+answer = str(message)
+if answer == "y": 
+    print("Let me see if I can find you a subaru")
+else: 
+    print("no I can't i'm sorry")
+
+#choose y or n
+print(message)
