@@ -1,0 +1,10 @@
+#learning_python.txt
+3.1415926535
+  8979323846
+  2643383279
+
+
+"In python you can print whatever messages you'd like "
+"In python you can play different types of code games "
+"In python you can make errors that the ai cannot pick up"
+
